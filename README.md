@@ -129,6 +129,6 @@ Visual Guide for Installing Bevy with Rust on a Windows 10 Machine
 
 ![](img/step30.png)
 
-### 31.	For more information and further steps refer to https://bevyengine.org/learn/book/getting-started/setup/.
+### 31.	You're done!  For more information and further steps refer to https://bevyengine.org/learn/book/getting-started/setup/.
 
 ![](img/step31.png)
