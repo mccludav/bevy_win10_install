@@ -2,6 +2,7 @@
 # Screenshot Installation of Bevy with Rust on Windows 10
 Visual Guide for Installing Bevy with Rust on a Windows 10 Machine
 
+
 ## Installing Rust
 ### 1.	Navigate to https://github.com/bevyengine/bevy.
 
@@ -47,6 +48,7 @@ Visual Guide for Installing Bevy with Rust on a Windows 10 Machine
 
 ![](img/step11.png)
 
+
 ## Installing VS2019 Build Tools
 ### 12.	Back at https://bevyengine.org/learn/book/getting-started/setup/ select VS2019 build tools
 
@@ -75,6 +77,7 @@ Visual Guide for Installing Bevy with Rust on a Windows 10 Machine
 ### 18.	When complete, close the window.
 
 ![](img/step18.png)
+
 
 ## Run a Rust Program
 ### 19.	Type Command Prompt in search field of task bar.
